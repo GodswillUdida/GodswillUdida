@@ -20,9 +20,9 @@ I'm a **Full-Stack Developer** with a passion for building **AI-powered fintech 
 I'm open to **AI-powered fintech projects**, **open-source contributions**, and **building scalable backend systems**. If you're working on something impactful, let's connect!  
 
 ### 📬 Get in Touch  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourhandle)  
-- 📧 [Email](mailto:your@email.com)  
+- 🐦 [Twitter](https://twitter.com/godswilludida)  
+- 💼 [LinkedIn](https://linkedin.com/in/udidagodswill)  
+- 📧 [Email](mailto:udidagodswill7@gmail.com)  
 
 ### 😄 Fun Fact  
 I believe **great code is like great music** – structured, expressive, and timeless! 🎵  
