@@ -1,21 +1,23 @@
 # 👋 Hey there! I'm Godswill Udida  
 
 ### 🚀 About Me  
-I'm a **Full-Stack Developer** with a passion for building scalable, efficient, and AI-powered fintech solutions. My focus is on **financial inclusion** for MSMEs, leveraging **Node.js, TypeScript, and modern web technologies** to create impactful applications.  
+I'm a **Full-Stack Developer** with a passion for building **AI-powered fintech solutions** that drive **financial inclusion** for MSMEs. I specialize in **Node.js, TypeScript, Python**, and **modern web technologies**, crafting scalable and high-performance applications.  
 
 ### 🔥 What I'm Into  
-- 💡 **Fintech & AI** – Exploring innovative ways to empower MSMEs  
-- 🏗 **Backend Development** – Writing clean, secure, and scalable APIs  
-- ⚡ **Full-Stack Engineering** – Bringing ideas to life with modern web technologies  
-- 🛠 **DevOps & Cloud** – Dockerizing apps and optimizing cloud deployments  
+- 💡 **Fintech & AI** – Innovating financial solutions for emerging markets  
+- 🏗 **Backend Development** – Writing clean, efficient, and scalable APIs  
+- ⚙ **Python & Machine Learning** – Exploring AI-driven financial analytics  
+- 🌍 **Full-Stack Engineering** – Merging backend power with intuitive frontend UX  
+- 🛠 **DevOps & Cloud** – Docker, Kubernetes, and cloud-native architectures  
 
 ### 📚 Currently Learning  
-- 🏎 **Advanced Backend Architecture** – Building robust, high-performance systems  
+- 🚀 **Advanced System Design** – Architecting distributed and scalable systems  
 - ☁ **Cloud & Serverless Computing** – Mastering AWS, Firebase, and edge computing  
-- 🧠 **Machine Learning in Fintech** – Exploring AI-driven financial solutions  
+- 🧠 **Machine Learning in Fintech** – Applying AI to financial data and risk assessment  
+- 🐍 **Python for AI & Data Science** – Optimizing ML models with Python  
 
 ### 🤝 Let's Collaborate  
-I'm open to **collaborations on AI-powered fintech solutions**, **open-source projects**, and **scalable backend systems**. Let's build something amazing together!  
+I'm open to **AI-powered fintech projects**, **open-source contributions**, and **building scalable backend systems**. If you're working on something impactful, let's connect!  
 
 ### 📬 Get in Touch  
 - 🐦 [Twitter](https://twitter.com/yourhandle)  
