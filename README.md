@@ -29,7 +29,7 @@ I'm a Full-Stack Developer with a passion for building AI-powered fintech soluti
 
 * ### 📬 Get in Touch  
 - 🐦 [X](https://x.com/godswilludida)  
-// - 💼 [LinkedIn](https://linkedin.com/in/udidagodswill)  
+- 💼 [LinkedIn](https://linkedin.com/in/udidagodswill)  
 - 📧 [Email](mailto:udidagodswill7@gmail.com)  
 
 <a href="https://www.github.com/godswilludida" target="_blank" rel="noreferrer"><img
