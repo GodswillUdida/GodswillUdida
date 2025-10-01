@@ -33,8 +33,8 @@ I'm a Full-Stack Developer with a passion for building AI-powered fintech soluti
 - 📧 [Email](mailto:udidagodswill7@gmail.com)  
 
 <a href="https://www.github.com/godswilludida" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/godswilludida?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/goswilludida" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/goswilludida?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/github/followers/godswilludida?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/godswilludida" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/godswilludida?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
