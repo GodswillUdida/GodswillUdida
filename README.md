@@ -28,8 +28,7 @@ I'm a Full-Stack Developer with a passion for building AI-powered fintech soluti
 * ⚡  I believe great code is like great music – structured, expressive, and timeless! 🎵
 
 * ### 📬 Get in Touch  
-- 🐦 [X](https://x.com/godswilludida)  
-- 💼 [LinkedIn](https://linkedin.com/in/udidagodswill)  
+- 🐦 [X](https://x.com/godswilludida)   
 - 📧 [Email](mailto:udidagodswill7@gmail.com)  
 
 <a href="https://www.github.com/godswilludida" target="_blank" rel="noreferrer"><img
@@ -64,8 +63,6 @@ src="https://img.shields.io/twitter/follow/godswilludida?logo=twitter&style=for-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/godswilludida/simple-ai-fintech" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=godswilludida&repo=simple-ai-fintech&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
