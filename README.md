@@ -23,7 +23,7 @@ I'm a Full-Stack Developer with a passion for building AI-powered fintech soluti
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [udidagodswill7@gmail.com](mailto:udidagodswill7@gmail.com)
 * 🧠  I'm learning Machine Learning in Fintech, Python for AI & Data Science
-* 🤝  I'm open to collaborating on I'm open to AI-powered fintech projects, open-source contributions, and building scalable backend systems. If you're working on something impactful, let's connect!
+* 🤝  I'm open to collaborating on AI-powered fintech projects, open-source contributions, and building scalable backend systems. If you're working on something impactful, let's connect!
 * 💻 _"Code smart, scale fast, and build for impact."_ 🚀
 * ⚡  I believe great code is like great music – structured, expressive, and timeless! 🎵
 
