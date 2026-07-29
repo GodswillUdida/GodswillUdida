@@ -96,7 +96,7 @@ Developing end-to-end systems with secure backend architecture and modern fronte
 
 ## Contact
 
-- Email: <mailto:udidagodswill7@gmail.com>
+- Email: <mailto:godswilludida@gmail.com>
 - X: <https://x.com/godswilludida>
 - LinkedIn: <https://www.linkedin.com/in/udidagodswill>
 
