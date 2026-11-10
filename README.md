@@ -41,7 +41,7 @@ I’m currently focused on building systems that combine:
 ## Tech Stack
 
 **Backend**
-- Node.js, TypeScript, Express
+- Node.js, TypeScript, Express, NestJS
 - Python (AI + automation services)
 
 **Frontend**
